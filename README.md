@@ -6,7 +6,7 @@ Hojé estamos desenvolvendo uma plataforma para negociações Swap (Defi)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asppibra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
 <div style="display: inline_block"><br> 
- <img align="center" alt="***" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180478848-46193348-fdbb-4295-a52b-6a29a90af5a1.svg"> 
+ <img align="center" alt="***" height="70" width="40" src="https://user-images.githubusercontent.com/80177249/180478848-46193348-fdbb-4295-a52b-6a29a90af5a1.svg"> 
  <img align="center" alt="***" height="30" width="40" src="https://"> 
  <img align="center" alt="***" height="30" width="40" src="https://"> 
  <img align="center" alt="***" height="30" width="40" src="https://">
