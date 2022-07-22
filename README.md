@@ -7,8 +7,6 @@ Hojé estamos desenvolvendo uma plataforma para negociações Swap (Defi)
 </div> 
 <div style="display: inline_block"><br> 
  <img align="center" alt="***" height="90" width="110" src="https://user-images.githubusercontent.com/80177249/180478848-46193348-fdbb-4295-a52b-6a29a90af5a1.svg"> 
- <img align="center" alt="***" height="30" width="40" src="https://"> 
- <img align="center" alt="***" height="30" width="40" src="https://"> 
- <img align="center" alt="***" height="30" width="40" src="https://">
+
 </div>   
 
