@@ -1,5 +1,7 @@
-## Olá, Eu sou Asppibra- Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil  
-Hojé estamos desenvolvendo uma plataforma para negociações Swap (Defi)
+## Olá, Eu sou ASPPIBRA- Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil  
+Hoje estamos desenvolvendo uma plataforma (Defi) que permite a validação de documentos em larga escala para registro imobiliário, civil e de direitos autorais, essa plataforma utiliza criptografia avançada para segurança de dados e negociações de swap dentro do Ecossistema, impulsionando a inclusão digital e o crescimento econômico no Brasil.
+
+Today we are developing a platform (Defi) which allows large-scale document validation for real estate, civil and copyright registration, this platform uses advanced encryption for data security and swap negotiations within the Ecosystem, boosting digital inclusion and economic growth in Brazil.
 
 ![IPFSBrasil](https://user-images.githubusercontent.com/80177249/182133620-af61db1e-bab3-4325-99f4-d4da56f517ab.png)
 <h1 ></h1>
