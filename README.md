@@ -7,14 +7,9 @@ Today we are developing a platform (Defi) which allows large-scale document vali
 ![IPFSBrasil](https://user-images.githubusercontent.com/80177249/182133620-af61db1e-bab3-4325-99f4-d4da56f517ab.png)
 <h1 ></h1>
 
-<div align="center"> 
-<a href="https://https://www.asppibra.com.br/"> 
-
+<div> 
 </div> 
-<div align="center"> 
-<a href="https://https://www.asppibra.com.br/"> 
-
-</div>
+ 
 <div style="display: inline_block"><br> 
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
  <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
