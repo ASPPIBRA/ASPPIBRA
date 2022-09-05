@@ -14,6 +14,12 @@ Today we are developing a platform (Defi) which allows large-scale document vali
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
  <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
+<a class="text-light" href="https://">
+<img align="center" alt="Website" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188518141-108e957c-d94a-44f6-9ab5-0b4b3c3e59d6.svg">
+</a>
+<a class="text-light" href="https://">
+<img align="center" alt="E-mail" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188518147-a279dbf6-a4a2-405c-8ac8-7396cbcd982b.svg">
+</a>
 <a class="text-light" href="https://t.me/MGWBR">
 <img align="center" alt="Telegram" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
 </a> 
@@ -24,5 +30,6 @@ Today we are developing a platform (Defi) which allows large-scale document vali
 <img align="center" alt="twitter" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
 </div>   
+
 
 
