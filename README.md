@@ -17,9 +17,6 @@ Today we are developing a platform (Defi) which allows large-scale document vali
 <a class="text-light" href="https://asppibra.com.br/">
 <img align="center" alt="Website" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188518141-108e957c-d94a-44f6-9ab5-0b4b3c3e59d6.svg">
 </a>
-<a class="text-light" href="contato@asppibra.com.br">
-<img align="center" alt="E-mail" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188518147-a279dbf6-a4a2-405c-8ac8-7396cbcd982b.svg">
-</a>
 <a class="text-light" href="https://t.me/MGWBR">
 <img align="center" alt="Telegram" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
 </a> 
