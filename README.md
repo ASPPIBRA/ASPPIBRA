@@ -19,12 +19,11 @@ Today we are developing a platform (Defi) which allows large-scale document vali
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
  <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
- <img align="center" alt="Telegram" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511740-80a8b361-d6a5-4883-891c-d12305f86417.svg">
+ <img align="center" alt="Telegram" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
  <img align="center" alt="discord" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511253-cc40defa-1729-42a0-b86d-a5a52755dc83.svg">
  <img align="center" alt="AAVE" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482344-c3d9058f-9550-4b35-bb42-1dfbda1b8bed.svg">
 
 </div>   
-
 
 
 
