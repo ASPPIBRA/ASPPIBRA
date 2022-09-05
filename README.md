@@ -12,6 +12,7 @@
 <a class="text-light" href="https://twitter.com/ASPPIBRA_ORG">
 <img align="center" alt="twitter" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
+ 
 </div>
 Hoje estamos desenvolvendo uma plataforma (Defi) que permite a validação de documentos em larga escala para registro imobiliário, civil e de direitos autorais, essa plataforma utiliza criptografia avançada para segurança de dados e negociações de swap dentro do Ecossistema, impulsionando a inclusão digital e o crescimento econômico no Brasil.
 
