@@ -1,5 +1,5 @@
 ## Olá, Eu sou ASPPIBRA- Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil. 
-<div></div>
+<div style="display: inline_block"><br>
 <a class="text-light" href="https://asppibra.com.br/">
 <img align="center" alt="Website" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188518750-a7d0a9e4-93e9-47c5-9ddc-56662399cd9a.svg">
 </a>
@@ -12,7 +12,7 @@
 <a class="text-light" href="https://twitter.com/ASPPIBRA_ORG">
 <img align="center" alt="twitter" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
-<div></div>
+</div>
 Hoje estamos desenvolvendo uma plataforma (Defi) que permite a validação de documentos em larga escala para registro imobiliário, civil e de direitos autorais, essa plataforma utiliza criptografia avançada para segurança de dados e negociações de swap dentro do Ecossistema, impulsionando a inclusão digital e o crescimento econômico no Brasil.
 
 Today we are developing a platform (Defi) which allows large-scale document validation for real estate, civil and copyright registration, this platform uses advanced encryption for data security and swap negotiations within the Ecosystem, boosting digital inclusion and economic growth in Brazil.
@@ -20,8 +20,6 @@ Today we are developing a platform (Defi) which allows large-scale document vali
 ![IPFSBrasil](https://user-images.githubusercontent.com/80177249/182133620-af61db1e-bab3-4325-99f4-d4da56f517ab.png)
 <h1 ></h1>
 
-<div> 
-</div> 
 <div style="display: inline_block"><br>
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
  <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
