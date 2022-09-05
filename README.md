@@ -1,8 +1,4 @@
-## Olá, Eu sou ASPPIBRA- Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil.
-<div style="display: inline_block"><br> 
- <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
- <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
- <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
+## Olá, Eu sou ASPPIBRA- Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil. 
 <a class="text-light" href="https://asppibra.com.br/">
 <img align="center" alt="Website" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188518750-a7d0a9e4-93e9-47c5-9ddc-56662399cd9a.svg">
 </a>
@@ -15,6 +11,10 @@
 <a class="text-light" href="https://twitter.com/ASPPIBRA_ORG">
 <img align="center" alt="twitter" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
+<div style="display: inline_block"><br>
+ <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
+ <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
+ <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
 </div>
 Hoje estamos desenvolvendo uma plataforma (Defi) que permite a validação de documentos em larga escala para registro imobiliário, civil e de direitos autorais, essa plataforma utiliza criptografia avançada para segurança de dados e negociações de swap dentro do Ecossistema, impulsionando a inclusão digital e o crescimento econômico no Brasil.
 
