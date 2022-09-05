@@ -13,7 +13,7 @@ Today we are developing a platform (Defi) which allows large-scale document vali
 </div> 
 <div align="center"> 
 <a href="https://https://www.asppibra.com.br/"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asppibra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 </div>
 <div style="display: inline_block"><br> 
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
