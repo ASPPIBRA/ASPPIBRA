@@ -15,7 +15,7 @@ Today we are developing a platform (Defi) which allows large-scale document vali
  <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
  <img align="center" a href="https://" alt="Telegram" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
-<a class= href="https://discord.gg/dHqkvBYd"> 
+<a class="text-light" href="https://discord.gg/dHqkvBYd"> 
 <img align="center" alt="discord" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511253-cc40defa-1729-42a0-b86d-a5a52755dc83.svg">
 </a>
 
