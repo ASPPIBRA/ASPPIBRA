@@ -21,6 +21,9 @@
 <a class="text-light" href="https://pancakeswap.finance/info/pool/0xe7c00c6dc9c729d3eb830f854fd9a6c5150b11c5">
 <img align="center" alt="pancakeswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135200-d8a39598-bcd0-4dff-ba8e-be47a3f98cb8.svg">
 </a>
+<a class="text-light" href="https://https://opensea.io/collection/asppibra-collection">
+<img align="center" alt="Opeansea" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189160382-2df611a1-23f4-41e2-ad5a-b896fcc8dbd5.svg">
+</a>
 </div>
 Hoje estamos desenvolvendo uma plataforma (Defi) que permite a validação de documentos em larga escala para registro imobiliário, civil e de direitos autorais, essa plataforma utiliza criptografia avançada para segurança de dados e negociações de swap dentro do Ecossistema, impulsionando a inclusão digital e o crescimento econômico no Brasil.
 
@@ -35,3 +38,5 @@ Today we are developing a platform (Defi) which allows large-scale document vali
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
  
 </div>
+
+
