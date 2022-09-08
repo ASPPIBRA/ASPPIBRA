@@ -1,9 +1,5 @@
 ## Olá, Eu sou ASPPIBRA- Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil. 
 <div style="display: inline_block"><br>
-
-<a class="text-light" href="https:///">
-<img align="center" alt="Website" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
-</a>
 <a class="text-light" href="https://asppibra.com.br/">
 <img align="center" alt="Website" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/189126223-20cd8fe6-1ce8-4239-9dfe-c958ba70f937.svg">
 </a>
@@ -16,6 +12,9 @@
 <a class="text-light" href="https://twitter.com/ASPPIBRA_ORG">
 <img align="center" alt="twitter" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
+<a class="text-light" href="https:///">
+<img align="center" alt="Website" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
+</a> 
 </div>
 <div style="display: inline_block"><br> 
 </div>
