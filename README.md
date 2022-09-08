@@ -19,10 +19,10 @@
 <div style="display: inline_block"><br> 
 </div>
 <a class="text-light" href="https://">
-<img align="center" alt="Biswap" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
+<img align="center" alt="Biswap" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
 </a>
 <a class="text-light" href="https://">
-<img align="center" alt="pancakeswap" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189135200-d8a39598-bcd0-4dff-ba8e-be47a3f98cb8.svg">
+<img align="center" alt="pancakeswap" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/189135200-d8a39598-bcd0-4dff-ba8e-be47a3f98cb8.svg">
 </a>
 </div>
 <div style="display: inline_block"><br> 
