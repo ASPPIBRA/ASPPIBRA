@@ -13,7 +13,7 @@
 <img align="center" alt="twitter" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
 <a class="text-light" href="https:///">
-<img align="center" alt="Website" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
+<img align="center" alt="Website" height="60" width="70" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
 </a> 
 </div>
 <div style="display: inline_block"><br> 
