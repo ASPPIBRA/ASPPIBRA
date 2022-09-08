@@ -1,19 +1,19 @@
 ## Olá, Eu sou ASPPIBRA- Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil. 
 <div style="display: inline_block"><br>
 <a class="text-light" href="https://">
-<img align="center" alt="wikipedia" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188992546-ab7d1af1-625f-488b-9eb0-0ffcdcea349e.svg">
+<img align="center" alt="wikipedia" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/188992546-ab7d1af1-625f-488b-9eb0-0ffcdcea349e.svg">
 </a>
 <a class="text-light" href="https://asppibra.com.br/">
-<img align="center" alt="Website" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189119344-880897ee-0620-4151-a630-c95624bb8e32.svg">
+<img align="center" alt="Website" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/189119344-880897ee-0620-4151-a630-c95624bb8e32.svg">
 </a>
 <a class="text-light" href="https://t.me/MGWBR">
-<img align="center" alt="Telegram" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
+<img align="center" alt="Telegram" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
 </a> 
 <a class="text-light" href="https://discord.gg/dHqkvBYd"> 
-<img align="center" alt="discord" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511253-cc40defa-1729-42a0-b86d-a5a52755dc83.svg">
+<img align="center" alt="discord" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/188511253-cc40defa-1729-42a0-b86d-a5a52755dc83.svg">
 </a>
 <a class="text-light" href="https://twitter.com/ASPPIBRA_ORG">
-<img align="center" alt="twitter" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
+<img align="center" alt="twitter" height="50" width="60" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
 </div>
 <div style="display: inline_block"><br> 
