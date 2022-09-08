@@ -13,10 +13,10 @@
 <img align="center" alt="twitter" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
 <a class="text-light" href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/">
-<img align="center" alt="Website" height="70" width="70" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
+<img align="center" alt="Bscscan" height="70" width="70" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
 </a>
 <a class="text-light" href="https://">
-<img align="center" alt="Biswap" height="430" width="40" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
+<img align="center" alt="Biswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
 </a>
 <a class="text-light" href="https://">
 <img align="center" alt="pancakeswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135200-d8a39598-bcd0-4dff-ba8e-be47a3f98cb8.svg">
