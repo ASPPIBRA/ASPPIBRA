@@ -18,6 +18,15 @@
 </div>
 <div style="display: inline_block"><br> 
 </div>
+<a class="text-light" href="https://">
+<img align="center" alt="Biswap" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
+</a>
+<a class="text-light" href="https://">
+<img align="center" alt="pancakeswap" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189135200-d8a39598-bcd0-4dff-ba8e-be47a3f98cb8.svg">
+</a>
+</div>
+<div style="display: inline_block"><br> 
+</div>
 Hoje estamos desenvolvendo uma plataforma (Defi) que permite a validação de documentos em larga escala para registro imobiliário, civil e de direitos autorais, essa plataforma utiliza criptografia avançada para segurança de dados e negociações de swap dentro do Ecossistema, impulsionando a inclusão digital e o crescimento econômico no Brasil.
 
 Today we are developing a platform (Defi) which allows large-scale document validation for real estate, civil and copyright registration, this platform uses advanced encryption for data security and swap negotiations within the Ecosystem, boosting digital inclusion and economic growth in Brazil.
@@ -31,6 +40,3 @@ Today we are developing a platform (Defi) which allows large-scale document vali
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
  
 </div>
-
-
-
