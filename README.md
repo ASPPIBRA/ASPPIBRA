@@ -31,5 +31,7 @@ Today we are developing a platform (Defi) which allows large-scale document vali
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
  
 </div>
+
+
    ![image](https://user-images.githubusercontent.com/80177249/189119344-880897ee-0620-4151-a630-c95624bb8e32.svg)
 
