@@ -32,6 +32,7 @@ Today we are developing a platform (Defi) which allows large-scale document vali
  
 </div>
 
+![2](https://user-images.githubusercontent.com/80177249/189126223-20cd8fe6-1ce8-4239-9dfe-c958ba70f937.svg)
 
 
 
