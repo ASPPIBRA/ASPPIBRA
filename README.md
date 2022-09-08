@@ -16,8 +16,6 @@
 <img align="center" alt="Website" height="70" width="70" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
 </a> 
 </div>
-<div style="display: inline_block"><br> 
-</div>
 <a class="text-light" href="https://">
 <img align="center" alt="Biswap" height="430" width="40" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
 </a>
