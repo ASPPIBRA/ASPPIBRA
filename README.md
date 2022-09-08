@@ -4,13 +4,13 @@
 <img align="center" alt="Website" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189126223-20cd8fe6-1ce8-4239-9dfe-c958ba70f937.svg">
 </a>
 <a class="text-light" href="https://t.me/MGWBR">
-<img align="center" alt="Telegram" height="40" width="40" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
+<img align="center" alt="Telegram" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
 </a> 
 <a class="text-light" href="https://discord.gg/dHqkvBYd"> 
-<img align="center" alt="discord" height="40" width="40" src="https://user-images.githubusercontent.com/80177249/188511253-cc40defa-1729-42a0-b86d-a5a52755dc83.svg">
+<img align="center" alt="discord" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/188511253-cc40defa-1729-42a0-b86d-a5a52755dc83.svg">
 </a>
 <a class="text-light" href="https://twitter.com/ASPPIBRA_ORG">
-<img align="center" alt="twitter" height="40" width="40" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
+<img align="center" alt="twitter" height="40" width="50" src="https://user-images.githubusercontent.com/80177249/188512090-bd3ff1cf-ac59-4bcd-ae56-8034594855f8.svg">
 </a>
 <a class="text-light" href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/">
 <img align="center" alt="Website" height="70" width="70" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
