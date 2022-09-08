@@ -4,7 +4,7 @@
 <img align="center" alt="wikipedia" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188992546-ab7d1af1-625f-488b-9eb0-0ffcdcea349e.svg">
 </a>
 <a class="text-light" href="https://asppibra.com.br/">
-<img align="center" alt="Website" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188518750-a7d0a9e4-93e9-47c5-9ddc-56662399cd9a.svg">
+<img align="center" alt="Website" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189119344-880897ee-0620-4151-a630-c95624bb8e32.svg">
 </a>
 <a class="text-light" href="https://t.me/MGWBR">
 <img align="center" alt="Telegram" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/188511853-a40bf29d-11dc-464c-8dc3-260c2f25b74a.svg">
@@ -33,5 +33,5 @@ Today we are developing a platform (Defi) which allows large-scale document vali
 </div>
 
 
-   ![image](https://user-images.githubusercontent.com/80177249/189119344-880897ee-0620-4151-a630-c95624bb8e32.svg)
+
 
