@@ -27,7 +27,9 @@
 </div>
 Hoje estamos desenvolvendo uma plataforma (Defi) que permite a validação de documentos em larga escala para registro imobiliário, civil e de direitos autorais, essa plataforma utiliza criptografia avançada para segurança de dados e negociações de swap dentro do Ecossistema, impulsionando a inclusão digital e o crescimento econômico no Brasil.
 
-Today we are developing a platform (Defi) which allows large-scale document validation for real estate, civil and copyright registration, this platform uses advanced encryption for data security and swap negotiations within the Ecosystem, boosting digital inclusion and economic growth in Brazil.
+A ASPPIBRA - Associação dos Proprietários e Posseiros de Imóveis no Brasil é uma associação civil, sem fins lucrativos, fundada em 04/09/2016 no Estado do Rio de Janeiro-RJ, com o objetivo defender e representar os proprietários e possuidores de imóveis no Brasil.
+A ASPPIBRA, foi fundada visando acelerar a inclusão digital no Brasil e facilitar o acesso dos cidadãos brasileiros a recursos e serviços por meio de novas tecnologias e tornar a regularização fundiária no Brasil uma realidade para todos, mesmo aqueles que não têm acesso à informação. Conhecendo bem as dificuldades enfrentadas em todo o território nacional, procura prestar um serviço de apoio a todos os titulares no que diz respeito à Propriedade Privada, registo imobiliário, licenciamento, acesso à informação, formação e qualificação de profissionais e isenção no mundo digital globalizado.
+A ASPPIBRA, é uma entidade que trabalha pelo bem-estar coletivo, promovendo a cidadania e inclusão digital, sempre atuando dentro dos limites da Lei.
 
 ![IPFSBrasil](https://user-images.githubusercontent.com/80177249/182133620-af61db1e-bab3-4325-99f4-d4da56f517ab.png)
 <h1 ></h1>
