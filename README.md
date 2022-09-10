@@ -2,7 +2,7 @@
 ## Olá, Eu sou Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil.
 </div> 
 <div style="display: inline_block"><br>
-<a class="text-light" href="https://asppibra.com.br/">
+<a class="text-light" href="https:///">
 <img align="center" alt="Website" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189126223-20cd8fe6-1ce8-4239-9dfe-c958ba70f937.svg">
 </a>
 <a class="text-light" href="https://t.me/MGWBR">
