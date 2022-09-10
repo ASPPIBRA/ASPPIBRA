@@ -1,35 +1,6 @@
 <div>
 ## Olá, Eu sou Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil.
 </div> 
-<div class="enjoy-css">Enjoy</div>
-.enjoy-css {
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  width: 345px;
-  margin: 1px;
-  padding: 115px;
-  overflow: hidden;
-  border: none;
-  font: normal 16px/1 "Times New Roman", Times, serif;
-  color: rgba(255,255,255,1);
-  text-align: center;
-  -o-text-overflow: ellipsis;
-  text-overflow: ellipsis;
-  background: -webkit-linear-gradient(-90deg, rgba(22,11,186,1) 0, rgba(186,11,148,1) 88%, rgba(186,11,148,1) 100%);
-  background: -moz-linear-gradient(180deg, rgba(22,11,186,1) 0, rgba(186,11,148,1) 88%, rgba(186,11,148,1) 100%);
-  background: linear-gradient(180deg, rgba(22,11,186,1) 0, rgba(186,11,148,1) 88%, rgba(186,11,148,1) 100%);
-  background-position: 50% 50%;
-  -webkit-background-origin: padding-box;
-  background-origin: padding-box;
-  -webkit-background-clip: border-box;
-  background-clip: border-box;
-  -webkit-background-size: auto auto;
-  background-size: auto auto;
-  -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
-  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
-  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
-}
 <div style="display: inline_block"><br>
 <a class="text-light" href="https://asppibra.com.br/">
 <img align="center" alt="Website" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189126223-20cd8fe6-1ce8-4239-9dfe-c958ba70f937.svg">
