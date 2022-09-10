@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-## Olá, Eu sou<img align="center" alt="ASPPIBRA" height="1000" width="1000" src="https://user-images.githubusercontent.com/80177249/189479184-0068fbd5-56e7-46b0-980e-31d963f63049.svg">
+## Olá, Eu sou<img align="center" alt="ASPPIBRA" height="1000" width="100" src="https://user-images.githubusercontent.com/80177249/189479184-0068fbd5-56e7-46b0-980e-31d963f63049.svg">
 </a>  Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil.
 
 </div> 
