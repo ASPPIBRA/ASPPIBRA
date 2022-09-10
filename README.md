@@ -1,7 +1,5 @@
 <div>
-## Olá, Eu sou<img align="center" alt="ASPPIBRA" height="500" width="600" src="https://user-images.githubusercontent.com/80177249/189479184-0068fbd5-56e7-46b0-980e-31d963f63049.svg">
-</a>  Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil.
-
+## Olá, Eu sou Associaçâo dos Proprietários e Posseiros de Imóveis No Brasil.
 </div> 
 <div style="display: inline_block"><br>
 <a class="text-light" href="https://asppibra.com.br/">
