@@ -17,7 +17,7 @@ Olá, Somos a (ASPPIBRA-DAO) a primeira Organização Autônoma Descentralizada 
 <a class="text-light" href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/">
 <img align="center" alt="Bscscan" height="70" width="70" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
 </a>
-<a class="text-light" href="https://biswap.org/analytics/pool/0x870812241a698f6f2911770b09134e9588b7917c">
+<a class="text-light" href="https://biswap.org/analytics/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
 <img align="center" alt="Biswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
 </a>
 <a class="text-light" href="https://pancakeswap.finance/info/pool/0xe7c00c6dc9c729d3eb830f854fd9a6c5150b11c5">
