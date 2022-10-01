@@ -1,5 +1,5 @@
 <div>
-Olá, Somos a (ASPPIBRA-DAO) a primeira Organização Autônoma Descentralizada no Brasil.
+Hello, We are (ASPPIBRA-DAO) the first Decentralized Autonomous Organization in Brazil.
 </div> 
 <div style="display: inline_block"><br>
 <a class="text-light" href="https:///">
