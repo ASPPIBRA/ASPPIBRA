@@ -2,8 +2,6 @@
 Hello, We are (ASPPIBRA-DAO) the first Decentralized Autonomous Organization in Brazil.
 </div> 
 <div style="display: inline_block"><br>
-<a class="text-light" href="https:///">
-<img align="center" alt="Website" height="50" width="50" src="https://user-images.githubusercontent.com/80177249/189126223-20cd8fe6-1ce8-4239-9dfe-c958ba70f937.svg">
 <a class="text-light" href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/">
 <img align="center" alt="Bscscan" height="70" width="70" src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
 </a>
