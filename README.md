@@ -19,7 +19,7 @@ Today we are developing a platform (Defi) that allows the validation of document
 
 ASPPIBRA - Associação dos Proprietários e Posseiros de Imóveis no Brasil is a non-profit civil association, founded on 09/04/2016 in the State of Rio de Janeiro-RJ, with the objective of defending and representing property owners and owners in the Brazil. ASPPIBRA was founded with the aim of accelerating digital inclusion in Brazil and facilitating Brazilian citizens' access to resources and services through new technologies and making land tenure regularization in Brazil a reality for everyone, even those who do not have access to information. Knowing well the difficulties faced throughout the national territory, it seeks to provide a support service to all holders with regard to Private Property, real estate registration, licensing, access to information, training and qualification of professionals and exemption in the globalized digital world. ASPPIBRA is an entity that works for the collective well-being, promoting citizenship and digital inclusion, always acting within the limits of the Law.
 
-<h1 ></h1>![cidades](https://user-images.githubusercontent.com/80177249/193615329-3b1e01c6-4e4d-4536-ac99-2ab068f4fa3b.png)
+![cidades](https://user-images.githubusercontent.com/80177249/193615329-3b1e01c6-4e4d-4536-ac99-2ab068f4fa3b.png)
 
 <div style="display: inline_block"><br>
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
