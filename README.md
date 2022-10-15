@@ -3,9 +3,10 @@ Hello, We are (ASPPIBRA-DAO) the first Decentralized Autonomous Organization in 
 </div> 
 <div style="display: inline_block"><br>
 
-<a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/">
+<a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/" target="_blank">
 <img align="center" alt="Bscscan" height="70" width="70" 
-src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg" target="_blank"></a>
+src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
+</a>
 
 <a class="text-light" href="https://biswap.org/analytics/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
 <img align="center" alt="Biswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
