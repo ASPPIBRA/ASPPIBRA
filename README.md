@@ -14,7 +14,7 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
 <a class="text-light" href="https://pancakeswap.finance/info/pools/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
 <img align="center" alt="pancakeswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135200-d8a39598-bcd0-4dff-ba8e-be47a3f98cb8.svg">
 </a>
-<a class="text-light" href="https://opensea.io/ASPPIBRA-DAO">
+<a class="text-light" href="https://opensea.io/collection/asppibra-collection">
 <img align="center" alt="Opeansea" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189160382-2df611a1-23f4-41e2-ad5a-b896fcc8dbd5.svg">
 </a>
 </div>
