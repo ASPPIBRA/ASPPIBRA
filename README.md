@@ -7,13 +7,6 @@ Hello, We are (ASPPIBRA-DAO) the first Decentralized Autonomous Organization in 
 <img align="center" alt="Bscscan" height="70" width="70" 
 src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
 </a>
-
-<a class="text-light" href="https://biswap.org/analytics/pool/0x870812241a698f6f2911770b09134e9588b7917c">
-<img align="center" alt="Biswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135337-e38c0c22-76cc-4b94-9cb9-a1028715089d.svg">
-</a>
-<a class="text-light" href="https://pancakeswap.finance/info/pools/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
-<img align="center" alt="pancakeswap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189135200-d8a39598-bcd0-4dff-ba8e-be47a3f98cb8.svg">
-</a>
 <a class="text-light" href="https://opensea.io/collection/asppibra-collection">
 <img align="center" alt="Opeansea" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189160382-2df611a1-23f4-41e2-ad5a-b896fcc8dbd5.svg">
 </a>
