@@ -25,4 +25,4 @@ ASPPIBRA - Associação dos Proprietários e Posseiros de Imóveis no Brasil is 
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
  
 </div>
-[![Linkedin Badge](https://img.shields.io/badge/-liamle07-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liamle07/)
+![Linkedin Badge](https://img.shields.io/badge/-liamle07-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liamle07/)
