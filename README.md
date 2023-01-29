@@ -27,7 +27,7 @@ ASPPIBRA - Associação dos Proprietários e Posseiros de Imóveis no Brasil is 
  ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/asppibra-dao/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asppibra/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ASPPIBRA_ORG) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaib-d-memon&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaib-d-memon" /> </p>
+
  
 </div>
 
