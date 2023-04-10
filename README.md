@@ -10,8 +10,12 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
 <a class="text-light" href="https://opensea.io/collection/asppibra-collection">
 <img align="center" alt="Opeansea" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189160382-2df611a1-23f4-41e2-ad5a-b896fcc8dbd5.svg">
 </a>
- ![ASPPIBRA_create_a_high_quality_custom_UIUX_version_for_a_crypto_acee6751-c767-4afc-a0b7-b3ba70813ae8](https://user-images.githubusercontent.com/80177249/230945164-5717731d-830f-4e6f-9f6f-ef8945f106b0.png)
+ 
 </div>
+
+
+![ASPPIBRA_create_a_high_quality_custom_UIUX_version_for_a_crypto_acee6751-c767-4afc-a0b7-b3ba70813ae8](https://user-images.githubusercontent.com/80177249/230945164-5717731d-830f-4e6f-9f6f-ef8945f106b0.png)
+
 Today we are developing a platform (Defi) that allows the validation of documents on a large scale for real estate, civil and copyright registration, this platform uses advanced encryption for data security and swap negotiations within the Ecosystem, boosting digital inclusion and economic growth in Brazil.
 
 ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil is a non-profit civil association, founded on 09/04/2016 in the State of Rio de Janeiro-RJ, with the objective of defending and representing property owners and owners in the Brazil. ASPPIBRA was founded with the aim of accelerating digital inclusion in Brazil and facilitating Brazilian citizens' access to resources and services through new technologies and making land tenure regularization in Brazil a reality for everyone, even those who do not have access to information. Knowing well the difficulties faced throughout the national territory, it seeks to provide a support service to all holders with regard to Private Property, real estate registration, licensing, access to information, training and qualification of professionals and exemption in the globalized digital world. ASPPIBRA is an entity that works for the collective well-being, promoting citizenship and digital inclusion, always acting within the limits of the Law.
