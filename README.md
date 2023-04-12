@@ -13,8 +13,8 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
  
 </div>
 
+![Mundo Digital](https://user-images.githubusercontent.com/80177249/231606922-94e1b2a0-29cd-4125-af8c-c65ffb002d0a.png)
 
-![ASPPIBRA_create_a_high_quality_custom_UIUX_version_for_a_crypto_acee6751-c767-4afc-a0b7-b3ba70813ae8](https://user-images.githubusercontent.com/80177249/230945164-5717731d-830f-4e6f-9f6f-ef8945f106b0.png)
 
 Today we are developing a platform (Defi) that allows the validation of documents on a large scale for real estate, civil and copyright registration, this platform uses advanced encryption for data security and swap negotiations within the Ecosystem, boosting digital inclusion and economic growth in Brazil.
 
