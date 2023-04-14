@@ -10,8 +10,11 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
 <a class="text-light" href="https://opensea.io/collection/asppibra-collection">
 <img align="center" alt="Opeansea" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189160382-2df611a1-23f4-41e2-ad5a-b896fcc8dbd5.svg">
 </a>
- 
+ <a class="text-light" href="https://coinmarketcap.com/dexscan/bsc/0xe7c00c6dc9c729d3eb830f854fd9a6c5150b11c5/">
+<img align="center" alt="Coinmarktcap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/231921538-4a3299f0-d8d8-45ef-81e3-587692dd86c1.svg">
+</a>
 </div>
+
 
 ![Mundo Digital](https://user-images.githubusercontent.com/80177249/231606922-94e1b2a0-29cd-4125-af8c-c65ffb002d0a.png)
 
