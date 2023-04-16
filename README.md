@@ -14,21 +14,7 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
 <img align="center" alt="Coinmarktcap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/231921538-4a3299f0-d8d8-45ef-81e3-587692dd86c1.svg">
 </a>
 </div>
-<div class='container'>
-  <a href='#' class='cta'>
-    <i data-feather="check" class='icon'></i>
-  </a>
-</div>
 
-<!-- References Dribbble / Twitter -->
-<div class='cs-ref'>
-  <a class="cs-dribbble" href="https://dribbble.com/shots/9267275-Neumorphism-UI-Interactive-Button" target="_blank">
-    <div id='svgDribbble'></div>
-  </a>
-  <a class="cs-twitter" target="_blank" href="https://twitter.com/CosWiSe">
-    <div id='svgTwitter'></div>
-  </a>
-</div>
 
 ![Mundo Digital](https://user-images.githubusercontent.com/80177249/231606922-94e1b2a0-29cd-4125-af8c-c65ffb002d0a.png)
 
