@@ -26,6 +26,12 @@ ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil i
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
 
+const button = document.querySelector('.some-button');
+button.addEventListener('click', (event) => {
+  console.log(button.dataset.content);
+  alert(button.dataset.content);
+});
+<button class="some-button" type="button" data-content="hidden-content">Click Me</button>
 
 
 <div style="display: inline_block"><br>
