@@ -26,48 +26,18 @@ ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil i
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
 
+## 🎁 Donate Crypto:
+
+<button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Donate with Crypto 1</button>
+
+<button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Donate with Crypto 2</button>
+
+<button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Donate with Crypto 3</button>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
  <img align="center" alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
  <img align="center" alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
-
-<style>
-.button-container {
-  display: flex;
-  justify-content: space-around;
-}
-
-.button {
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  border-radius: 50%;
-  padding: 20px;
-  width: 100px;
-  height: 100px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-  cursor: pointer;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.button:hover {
-  transform: scale(1.1);
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
-}
-</style>
-
-<div class="button-container">
-  <button class="button">Button 1</button>
-  <button class="button" style="background-color: #008CBA;">Button 2</button>
-  <button class="button" style="background-color: #f44336;">Button 3</button>
-</div>
-
-
-
 
  
  ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
