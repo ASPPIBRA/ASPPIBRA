@@ -26,13 +26,6 @@ ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil i
 
 ## <h2 align="center">🎁 Donate Crypto:</h2>
 
-## 🎁 Donate Crypto:
-
-<button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Donate with Crypto 1</button>
-
-<button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Donate with Crypto 2</button>
-
-<button style="background-color: #f44336; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Donate with Crypto 3</button>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
