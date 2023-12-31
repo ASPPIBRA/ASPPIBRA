@@ -44,25 +44,5 @@ ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil i
  
 </div>
 
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://br.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Monitore todos os mercados no TradingView</span></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-  {
-  "symbol": "BINANCE:BNBUSDT",
-  "width": 350,
-  "height": 220,
-  "locale": "br",
-  "dateRange": "ALL",
-  "colorTheme": "light",
-  "isTransparent": false,
-  "autosize": false,
-  "largeChartUrl": "",
-  "noTimeScale": false
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
 
 
