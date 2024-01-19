@@ -3,6 +3,9 @@
     <p>The first Decentralized Autonomous Organization in Brazil.</p>
 </div> 
 
+[![Views](https://api.github.com/repos/<seu-usuário>/<seu-repositório>/commits/master.atom?count_views=true)](https://github.com/<seu-usuário>/<seu-repositório>)
+
+
 <div style="display: inline_block"><br>
 
 <a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/" target="_blank">
