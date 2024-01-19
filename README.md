@@ -25,24 +25,6 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
     ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil is a non-profit civil association, founded on 09/04/2016 in the State of Rio de Janeiro-RJ. Our objective is defending and representing property owners in Brazil. We aim to accelerate digital inclusion in Brazil and facilitate access to resources and services through new technologies and make land tenure regularization in Brazil a reality for everyone, even those who do not have access to information. Knowing well the difficulties faced throughout the national territory, we seek to provide a support service to all holders with regard to Private Property, real estate registration, licensing, access to information, training, and qualification of professionals and exemption in the globalized digital world. ASPPIBRA is an entity that works for the collective well-being, promoting citizenship and digital inclusion, always acting within the limits of the Law.
 </p>
 
-<div class="tradingview-widget-container">
- <div class="tradingview-widget-container__widget"></div>
- <div class="tradingview-widget-copyright"><a href="https://br.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Monitore todos os mercados no TradingView</span></a></div>
- <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
- {
- "symbol": "BINANCE:BNBUSDT",
- "width": 350,
- "height": 220,
- "locale": "br",
- "dateRange": "12M",
- "colorTheme": "light",
- "isTransparent": true,
- "autosize": false,
- "largeChartUrl": ""
-}
- </script>
-</div>
-
 
 <h2 align="center">🎁 Donate Crypto:</h2>
 
