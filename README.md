@@ -26,6 +26,36 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
     ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil is a non-profit civil association, founded on 09/04/2016 in the State of Rio de Janeiro-RJ. Our objective is defending and representing property owners in Brazil. We aim to accelerate digital inclusion in Brazil and facilitate access to resources and services through new technologies and make land tenure regularization in Brazil a reality for everyone, even those who do not have access to information. Knowing well the difficulties faced throughout the national territory, we seek to provide a support service to all holders with regard to Private Property, real estate registration, licensing, access to information, training, and qualification of professionals and exemption in the globalized digital world. ASPPIBRA is an entity that works for the collective well-being, promoting citizenship and digital inclusion, always acting within the limits of the Law.
 </p>
 
+## <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
+
+<div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
+    <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
+        <img alt="USDT" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Tether%20USDT.svg">
+    </a>
+    <a href="https://apespace.io/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
+        <img alt="BNB" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/BNB%20.svg">
+    </a>
+    <a href="https://dexscreener.com/bsc/0x7e407b49206436238306a651d0e7951639a11732">
+        <img alt="CTK" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/30d44728c6bc7f33ef019ae9fc31cc92e2bcbb87/Svg/ctk.svg">
+    </a>
+    <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
+        <img alt="TWT" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Trust%20Wallet%20Token%20TWT.svg">
+    </a>
+</div>
+
+## <h2 align="center">💰 Piscina de Liquidez:</h2>
+
+<div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
+    <a href="https://pancakeswap.finance/info/pairs/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
+        <img alt="USDT" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Tether%20USDT.svg">
+    </a>
+    <a href="https://pancakeswap.finance/info/pairs/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
+        <img alt="BNB" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/BNB%20.svg">
+    </a>
+    <a href="https://pancakeswap.finance/info/pairs/0x60825783086bbebbf0c83129e88c69914ad17073">
+        <img alt="ETH" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Trust%20Wallet%20Token%20TWT.svg">
+    </a>
+</div>
 
 <h2 align="center">🎁 Donate Crypto:</h2>
 
