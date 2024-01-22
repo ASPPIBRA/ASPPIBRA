@@ -41,13 +41,6 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
     </a>
 </div>
 
-
-<div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
-    <img alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
-    <img alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
-    <img alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
-</div>
-
 <div style="text-align: center; margin-top: 20px;">
     <h3>Connect with me</h3>
     <p>
