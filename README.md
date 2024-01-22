@@ -5,7 +5,7 @@
 
 <div style="display: inline_block"><br>
 
-| Link + Imagens 	| \[\![Legenda\](url da img)\](url para a pagina)\] 	| Me clique [![me](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
+[![me](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com)
 
 <a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/" target="_blank">
 <img align="center" alt="Bscscan" height="70" width="70" 
