@@ -1,32 +1,34 @@
-<div style="font-family: 'Arial', sans-serif; color: #333; text-align: center;">
-    <h1>Hello, We are ASPPIBRA-DAO</h1>
-    <p>The first Decentralized Autonomous Organization in Brazil.</p>
-</div> 
+# [QUEM SOMOS](https://www.asppibra.com.br/)
 
-<div style="display: inline_block"><br>
+![QUEM SOMOS](https://github.com/ASPPIBRA-DAO/Imagens/blob/b098db9f3f31f4b546db86dcebe507b8ce42cc0c/Svg/ASPPIBRA-DAO.svg)
+
+## INTRODUÇÃO:
+
+- Somos a ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil. Somos uma associação civil sem fins lucrativos, fundada em 04/09/2016, no Estado do Rio de Janeiro-RJ, formada por profissionais, liberais e cidadãos que desejam contribuir com o desenvolvimento sócio econômico da sociedade moderna. Temos como objetivo defender e representar os interesses dos proprietários e possuidores de imóveis no Brasil. A ASPPIBRA foi fundada visando acelerar a inclusão digital, facilitar o acesso dos cidadãos brasileiros a recursos e serviços por meio de novas tecnologias e tornar a regularização fundiária no Brasil uma realidade para todos, mesmo aqueles que não têm acesso à informação. Conhecendo bem as dificuldades enfrentadas em todo o território nacional, procuramos prestar um suporte de qualidade a todos os cidadãos no que diz respeito à Propriedade Privada, registo imobiliário, licenciamento, acesso à informação e exploração dos recursos naturais de forma sustentável.
+
+- A partir do projeto Mundo Digital, temos como objetivo levar a modernização, a inclusão digital, a segurança financeira, a preservação ambiental e a geração de energia sustentável através da combinação de tecnologias como blockchain e 
+web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo incentivos financeiros para ampliar a produção agropecuária de maneira sustentável e recuperar áreas degradadas. Esta abordagem possibilita a construção de um novo mundo digital que une o meio ambiente e a inovação.
 
 
-<a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F/" target="_blank">
-<img align="center" alt="Bscscan" height="70" width="70" 
-src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-473c-b93a-a56170699920.svg">
-</a>
-<a class="text-light" href="https://opensea.io/collection/asppibra-collection">
-<img align="center" alt="Opeansea" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/189160382-2df611a1-23f4-41e2-ad5a-b896fcc8dbd5.svg">
-</a>
- <a class="text-light" href="https://coinmarketcap.com/dexscan/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b/">
-<img align="center" alt="Coinmarktcap" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/231921538-4a3299f0-d8d8-45ef-81e3-587692dd86c1.svg">
-</a>
-</div>
+- [Apresentação](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/APRESENTA%C3%87%C3%83O.md)
+- [Quem Somos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#quem-somos)
+- [Problemas](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PROBLEMAS.md#problemas)
+- [Soluçôes](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/SOLU%C3%87%C3%95ES.md#solu%C3%A7%C3%B5es)
+- [Tokenomics](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#tokenomics)
+- [Tecnologia e Arquitetura](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TECNOLOGIA%20E%20ARQUITETURA.md#tecnologia-e-arquitetura)
+- [Governança e Consenso](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/GOVERNAN%C3%87A%20E%20CONSENSO.md#governan%C3%A7a-e-consenso)
+- [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md#road-map)
+- [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)
+- [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias)
+- [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#distribui%C3%A7%C3%A3o-dos-tokens)
+- [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#aloca%C3%A7%C3%A3o-de-fundos)
+- [Conformidade Legal e Regulamentar](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira)
+- [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#fatores-de-riscos-e-desafios)
+- [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs)
 
-<img src="https://user-images.githubusercontent.com/80177249/231606922-94e1b2a0-29cd-4125-af8c-c65ffb002d0a.png" style="display: block; margin: 20px auto; width: 90%; max-width: 600px;">
+# <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
 
-<p style="margin: 20px; font-size: 16px; text-align: justify;">
-    Today we are developing a platform (Defi) that allows the validation of documents on a large scale for real estate, civil and copyright registration. This platform uses advanced encryption for data security and swap negotiations within the Ecosystem, boosting digital inclusion and economic growth in Brazil.
-    <br><br>
-    ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil is a non-profit civil association, founded on 09/04/2016 in the State of Rio de Janeiro-RJ. Our objective is defending and representing property owners in Brazil. We aim to accelerate digital inclusion in Brazil and facilitate access to resources and services through new technologies and make land tenure regularization in Brazil a reality for everyone, even those who do not have access to information. Knowing well the difficulties faced throughout the national territory, we seek to provide a support service to all holders with regard to Private Property, real estate registration, licensing, access to information, training, and qualification of professionals and exemption in the globalized digital world. ASPPIBRA is an entity that works for the collective well-being, promoting citizenship and digital inclusion, always acting within the limits of the Law.
-</p>
-
-## <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
+![ASPPBR TOKEN](https://github.com/ASPPIBRA-DAO/Imagens/blob/beb6e8e8337b8abdbf8de451869f19069403f89c/Svg/ASPPBR-TOKEN.svg)
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
     <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
@@ -41,9 +43,19 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
     <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
         <img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg">
     </a>
+    <a href="https://bscscan.com/token/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c?a=0xDfcE227bf1FfBBbec6410c2C2E22873293e6b56F">
+        <img alt="BSCSCAN" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Bscscan.svg">
+    </a>
+    <a href="https://coinmarketcap.com/dexscan/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
+        <img alt="COINMARKETCAP" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Coinmarktcap.svg">
+    </a>
 </div>
 
-## <h2 align="center">💰 Piscina de Liquidez:</h2>
+# <h2 align="center">💰 Piscina de Liquidez:</h2>
+
+
+![POOL ASPPBR TOKEN](https://github.com/ASPPIBRA-DAO/Imagens/blob/beb6e8e8337b8abdbf8de451869f19069403f89c/Svg/LaunchPool-ASPPIBRA.svg)
+
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
     <a href="https://pancakeswap.finance/info/pairs/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
@@ -57,27 +69,14 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
     </a>
 </div>
 
-<h2 align="center">🎁 Donate Crypto:</h2>
 
-<div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://www.youtube.com">
-        <img alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
-    </a>
-    <a href="https://www.youtube.com">
-        <img alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
-    </a>
-    <a href="https://www.youtube.com">
-        <img alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
-    </a>
-</div>
 
-<div style="text-align: center; margin-top: 20px;">
-    <h3>Connect with me</h3>
-    <p>
-        <a href="https://linkedin.com/company/asppibra-dao/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="https://instagram.com/asppibra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-        <a href="https://twitter.com/ASPPIBRA_ORG" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-        <a href="https://t.me/Mundo_Digital_BR" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-        <a href="https://discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    </p>
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/asppibra-dao/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asppibra/) 
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ASPPIBRA_ORG) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mundo_Digital_BR)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord)
+
 </div>
