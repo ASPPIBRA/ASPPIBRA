@@ -30,16 +30,16 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
     <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
-        <img alt="USDT" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Tether%20USDT.svg">
+        <img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg">
     </a>
     <a href="https://apespace.io/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
-        <img alt="BNB" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/BNB%20.svg">
+        <img alt="BNB" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/BNB-sbg.svg">
     </a>
     <a href="https://dexscreener.com/bsc/0x7e407b49206436238306a651d0e7951639a11732">
-        <img alt="CTK" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/30d44728c6bc7f33ef019ae9fc31cc92e2bcbb87/Svg/ctk.svg">
+        <img alt="CTK" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/CTK-sbg.svg">
     </a>
     <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
-        <img alt="TWT" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Trust%20Wallet%20Token%20TWT.svg">
+        <img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg">
     </a>
 </div>
 
@@ -47,13 +47,13 @@ src="https://user-images.githubusercontent.com/80177249/189129817-0793f573-cffd-
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
     <a href="https://pancakeswap.finance/info/pairs/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
-        <img alt="USDT" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Tether%20USDT.svg">
+        <img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg">
     </a>
     <a href="https://pancakeswap.finance/info/pairs/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
-        <img alt="BNB" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/BNB%20.svg">
+        <img alt="BNB" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/BNB-sbg.svg">
     </a>
     <a href="https://pancakeswap.finance/info/pairs/0x60825783086bbebbf0c83129e88c69914ad17073">
-        <img alt="ETH" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Trust%20Wallet%20Token%20TWT.svg">
+        <img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg">
     </a>
 </div>
 
