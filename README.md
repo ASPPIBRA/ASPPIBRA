@@ -23,11 +23,12 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
 | [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md#road-map)                      | Planejamento futuro e marcos importantes para o desenvolvimento do projeto                                  |
 | [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)                                      | Informações sobre os membros da equipe e diretoria                                                            |
 | [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias) | Estratégias, planos e parcerias estabelecidas pela organização                                    |
-| [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#distribui%C3%A7%C3%A3o-dos-tokens) | Detalhes sobre a distribuição dos tokens                                                                |
-| [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#aloca%C3%A7%C3%A3o-de-fundos) | Como os fundos são alocados e utilizados no projeto                                               |
+| [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO-TOKEN#distribui%C3%A7%C3%A3o-dos-tokens) | Detalhes sobre a distribuição dos tokens                                                                |
+| [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO-TOKEN#aloca%C3%A7%C3%A3o-de-fundos) | Como os fundos são alocados e utilizados no projeto                                               |
 | [Conformidade Legal e Regulamentar](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira) | Informações sobre a conformidade legal e regulamentar do projeto                           |
 | [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#fatores-de-riscos-e-desafios) | Identificação dos principais riscos e desafios do projeto                                       |
 | [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs) | Regras e condições gerais para a distribuição de tokens                                       |
+
 
 
 # <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
